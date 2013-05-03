@@ -8,11 +8,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "real-mayo/AppDelegate.rb"
-         timestampString = "389207826.009223"
+         timestampString = "389303969.061993"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "35"
-         endingLineNumber = "35"
+         startingLineNumber = "39"
+         endingLineNumber = "39"
          landmarkName = "controlTextDidChange"
          landmarkType = "7">
       </FileBreakpoint>

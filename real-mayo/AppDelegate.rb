@@ -17,8 +17,8 @@ class AppDelegate
         # Insert code here to initialize your application
         size = NSSize.new(0.0, 0.0)
         scrollView.setFrame(NSRect.new(scrollView.frame.origin, size))
-        p textField.frame.origin
     end
+
     def text(sender)
         if @targets && !@targets.empty?
             `open "/Applications/#{@targets.first}.app"`
